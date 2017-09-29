@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+    border: 4 px solid black;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <caption>The Affects of Hurricane Harvey</caption>
+  <tr>
+    <th>Description</th>
+ <body> Hurricane harvey was an extremely destructive Atlantic hurricane that lasted from August 24th to August 26, 2017. The Category 4 hurricane landed between Port Aransas and Port O-conner Texas on August 25th 2017.
+
+  </tr>
+  <tr>
+    <td>February</td>
+  </tr>
+  
+</body>
+</html>
